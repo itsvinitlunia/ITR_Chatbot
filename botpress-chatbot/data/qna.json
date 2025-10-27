@@ -1,0 +1,286 @@
+{
+  "data": [
+    {
+      "questions": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "start"
+      ],
+      "answer": "Hello! I'm your ITR Filing Assistant, powered by the official knowledge base. I can help you with questions about ITR forms, deadlines, and filing procedures. How can I help you today?"
+    },
+    {
+      "questions": [
+        "what is itr?",
+        "define itr",
+        "what is an income tax return?"
+      ],
+      "answer": "ITR, or Income Tax Return, is a form used to communicate the details of your income and the taxes you've paid to the Income-tax Department for a specific financial year. It also allows you to carry forward losses and claim tax refunds."
+    },
+    {
+      "questions": [
+        "why is filing itr mandatory?",
+        "is it compulsory to file itr?",
+        "why should i file itr?"
+      ],
+      "answer": "Filing an ITR is a legal obligation if your income exceeds the basic exemption limit. It serves as proof of your income for things like loan applications or visas and is required to claim a tax refund or carry forward losses."
+    },
+    {
+      "questions": [
+        "what is assessment year vs previous year?",
+        "difference between ay and py",
+        "explain ay and py"
+      ],
+      "answer": "The Previous Year (PY) is the financial year when you earn income, running from April 1st to March 31st. The Assessment Year (AY) is the year right after the PY, in which you file the return and the income is assessed."
+    },
+    {
+      "questions": [
+        "who has to file itr?",
+        "who must file an income tax return?",
+        "am i required to file itr?"
+      ],
+      "answer": "You must file an ITR if your gross income exceeds the basic exemption limit (₹3,00,000 under the new regime), or if you meet other criteria like depositing over ₹1 crore in a bank account, spending over ₹2 lakh on foreign travel, or having an electricity bill over ₹1 lakh."
+    },
+    {
+      "questions": [
+        "which itr form should i use?",
+        "how to choose the right itr form?",
+        "what are the different types of itr forms?"
+      ],
+      "answer": "The ITR form depends on your income sources. ITR-1 is for salaried individuals with income up to ₹50 lakh, while ITR-3 is for those with income from a business or profession. You can use the Quick Decision Matrix for guidance or ask me about a specific form."
+    },
+    {
+      "questions": [
+        "who can file itr-1?",
+        "what is itr-1 sahaj?",
+        "tell me about itr 1"
+      ],
+      "answer": "ITR-1 (Sahaj) is for resident individuals with a total income up to ₹50 lakh. It cannot be used by company directors, those with unlisted equity shares, or individuals with income from capital gains or business/profession."
+    },
+    {
+      "questions": [
+        "how to fill itr-1?",
+        "steps for itr-1 filing"
+      ],
+      "answer": "To fill ITR-1: 1. Enter personal details. 2. Select ITR-1 and the Assessment Year. 3. Fill in your Income from Salary from Form 16. 4. Add Income from One House Property. 5. Enter income from Other Sources. 6. Claim eligible deductions. 7. Verify your TDS details against Form 26AS. 8. Compute the final tax payable or refund due. 9. Submit the return and e-verify it."
+    },
+    {
+      "questions": [
+        "who files itr-2?",
+        "what is itr 2 for?"
+      ],
+      "answer": "ITR-2 is for Individuals and HUFs who are not eligible for ITR-1 and do not have income from a business or profession. Use this form if you have income from capital gains, have more than one house property, or are a director in a company."
+    },
+    {
+      "questions": [
+        "how to fill itr-2?",
+        "steps for itr-2 filing"
+      ],
+      "answer": "To fill ITR-2: 1. Enter personal details. 2. Report salary income. 3. Add House Property income for all properties. 4. Enter Capital Gains details. 5. Include income from Other Sources. 6. Claim deductions. 7. Verify TDS and Advance Tax from Form 26AS. 8. Review your tax liability and pay any balance tax. 9. Submit and e-verify."
+    },
+    {
+      "questions": [
+        "who should file itr-3?",
+        "what is itr 3 for?"
+      ],
+      "answer": "ITR-3 is for Individuals and HUFs who have income from a business or profession. This is the correct form if you run a business or are a professional (e.g., doctor, lawyer)."
+    },
+    {
+      "questions": [
+        "how to fill itr-3?",
+        "steps for itr-3 filing"
+      ],
+      "answer": "To fill ITR-3: 1. Enter personal details. 2. Fill in your business/professional income, including P&L and Balance Sheet details. 3. Add any other incomes like salary or capital gains. 4. Claim all eligible business and personal deductions. 5. Reconcile your TDS and Advance Tax paid. 6. Pay any self-assessment tax due. 7. Submit and e-verify the return."
+    },
+    {
+      "questions": [
+        "what is itr-4 sugam?",
+        "who files itr 4?"
+      ],
+      "answer": "ITR-4 (Sugam) is for resident individuals, HUFs, and firms with total income up to ₹50 lakh who have opted for the presumptive taxation scheme. Use this if you are a small business owner or professional using that scheme."
+    },
+    {
+      "questions": [
+        "how to fill itr-4?",
+        "steps for itr-4 filing"
+      ],
+      "answer": "To fill ITR-4: 1. Enter personal details. 2. Choose the relevant Presumptive Scheme section. 3. Enter your gross receipts or turnover. 4. Add any other applicable incomes. 5. Claim deductions. 6. Verify TDS and Advance Tax. 7. Compute your total tax and pay if needed. 8. Submit and e-verify."
+    },
+    {
+      "questions": [
+        "what do i need before filing itr?",
+        "what are the pre-filing requirements?"
+      ],
+      "answer": "Before filing, you must link your PAN with Aadhaar, correctly determine your residential status, pre-validate at least one bank account for refunds, and ensure your mobile and email are updated for OTPs."
+    },
+    {
+      "questions": [
+        "what documents are required for itr filing?",
+        "document checklist for itr"
+      ],
+      "answer": "For salaried individuals, you need Form 16 and Form 26AS. For business income, you need a P&L statement and balance sheet. For capital gains, you need broker statements or property sale deeds. All filers need bank account details and investment proofs for deductions."
+    },
+    {
+      "questions": [
+        "what is the difference between form 16 and form 26as?",
+        "form 16 vs 26as"
+      ],
+      "answer": "Form 16 is a TDS certificate issued only by your employer, detailing your salary and the tax deducted by them. Form 26AS is a consolidated annual tax statement from the Income Tax Department that shows all taxes deposited against your PAN from all sources, including salary, interest, etc."
+    },
+    {
+      "questions": [
+        "can i file itr without form 16?"
+      ],
+      "answer": "Yes, you can file your ITR without Form 16. You will need your monthly salary slips to calculate your total income and can cross-verify the tax deducted with your Form 26AS."
+    },
+    {
+      "questions": [
+        "what is itr-v?",
+        "what is an itr acknowledgement?"
+      ],
+      "answer": "ITR-V is the acknowledgement of your filed return. If you e-verify, it is generated instantly. If not, you must sign and send a physical copy to CPC, Bengaluru."
+    },
+    {
+      "questions": [
+        "how can i file a revised return?",
+        "i made a mistake in my itr"
+      ],
+      "answer": "If you discover a mistake after filing, you can file a Revised Return to correct it. To do this: 1. Log in and choose 'Revised Return' as the Filing Type. 2. Enter the Acknowledgement Number of the original ITR. 3. Make your corrections, submit, and e-verify the revised return."
+    },
+    {
+      "questions": [
+        "what is a belated return?",
+        "revised vs belated return"
+      ],
+      "answer": "A belated return is a return filed after the due date (e.g., July 31st). A revised return is filed to correct a mistake in an originally filed return. You can revise both original and belated returns."
+    },
+    {
+      "questions": [
+        "what happens if i select the wrong itr form?",
+        "i used the wrong itr form"
+      ],
+      "answer": "Filing the incorrect ITR form will cause your return to be treated as 'defective'. You will receive a notice and must file a corrected return using the right form within the specified time."
+    },
+    {
+      "questions": [
+        "what is a tds mismatch?",
+        "my form 26as is incorrect"
+      ],
+      "answer": "A TDS mismatch occurs when the tax claimed by you does not match the amount in your Form 26AS. In this case, the claim will be rejected. You must contact the deductor (e.g., your employer) and ask them to revise their TDS return."
+    },
+    {
+      "questions": [
+        "tell me about taxes for nris",
+        "what are the rules for nri tax filing?"
+      ],
+      "answer": "For Non-Resident Indians (NRIs), only their Indian income is taxable in India. They must have a bank account in India and are not eligible to use the ITR-1 form."
+    },
+    {
+      "questions": [
+        "which itr form should an nri use?"
+      ],
+      "answer": "NRIs typically file ITR-2 if they have income from sources like capital gains or house property. If they have income from a business or profession in India, they must file ITR-3."
+    },
+    {
+      "questions": [
+        "is pan aadhaar linking mandatory for nris?"
+      ],
+      "answer": "No, linking PAN with Aadhaar is not mandatory for Non-Resident Indians (NRIs)."
+    },
+    {
+      "questions": [
+        "what is presumptive taxation?",
+        "who can use presumptive scheme?"
+      ],
+      "answer": "The presumptive taxation scheme allows small businesses and professionals to declare income at a prescribed percentage of their gross receipts or turnover, without needing to maintain detailed books of accounts."
+    },
+    {
+      "questions": [
+        "are there special benefits for senior citizens?",
+        "tax rules for senior citizens"
+      ],
+      "answer": "Yes, individuals aged 60 or more get a higher basic exemption limit under the old tax regime. Very senior citizens (aged 80 and above) have an even higher exemption limit."
+    },
+    {
+      "questions": [
+        "how do i link pan with aadhaar?",
+        "steps to link pan and aadhaar"
+      ],
+      "answer": "To link PAN with Aadhaar: 1. Log in to the Income Tax e-Filing portal. 2. From the dashboard, click 'Profile' then 'Link Aadhaar'. 3. Enter your Aadhaar number and the OTP. 4. Submit to complete the process."
+    },
+    {
+      "questions": [
+        "how can i reset my e-filing password?",
+        "i forgot my itr password"
+      ],
+      "answer": "To reset your password: 1. On the login page, click 'Forgot Password'. 2. Enter your PAN and Captcha. 3. Choose a method like Aadhaar OTP. 4. Enter the OTP and set your new password."
+    },
+    {
+      "questions": [
+        "how do i e-verify my itr?",
+        "steps for itr e-verification"
+      ],
+      "answer": "You must e-verify within 30 days of filing. Using the Aadhaar OTP method: 1. Log in to the e-Filing portal. 2. Go to 'e-Verify Return'. 3. Select 'Aadhaar OTP'. 4. Enter the OTP sent to your Aadhaar-linked mobile to complete the verification."
+    },
+    {
+      "questions": [
+        "how to check my refund status?",
+        "where is my tax refund?"
+      ],
+      "answer": "To check your refund status: 1. Log in to the e-Filing portal. 2. From the dashboard, go to 'Services' then 'Refunds'. 3. The status (paid, pending, or failed) will be displayed there. You can also check on the NSDL website."
+    },
+    {
+      "questions": [
+        "what is the last date to file itr?",
+        "itr filing deadline"
+      ],
+      "answer": "For individuals in non-audit cases, the deadline is July 31st of the Assessment Year. For business cases requiring an audit, the due date is October 31st."
+    },
+    {
+      "questions": [
+        "what happens if i miss the itr deadline?",
+        "penalty for late filing"
+      ],
+      "answer": "If you file late, there is a late filing fee under Sec 234F. It is ₹1,000 for income up to ₹5 lakh and ₹5,000 for income above ₹5 lakh. You will also be charged interest for any delay in paying tax under section 234A."
+    },
+    {
+      "questions": [
+        "what is the difference between the old and new tax regime?",
+        "old vs new tax regime"
+      ],
+      "answer": "The main difference is that the Old Regime allows you to claim most deductions like 80C, 80D, HRA, etc. The New Regime offers lower tax rates but you must forgo most of those deductions."
+    },
+    {
+      "questions": [
+        "why did my tax refund fail?",
+        "common reasons for refund failure"
+      ],
+      "answer": "Common reasons for a tax refund to fail include: having invalid bank details, a name mismatch between your bank account and PAN, or the account not being pre-validated."
+    },
+    {
+      "questions": [
+        "what is notice 143(1)?",
+        "i received a tax intimation"
+      ],
+      "answer": "A notice under section 143(1) is an intimation that summarizes how your return was processed. It will either confirm your filing, show a refund is due, or raise a tax demand."
+    },
+    {
+      "questions": [
+        "what is a defective return notice?",
+        "i received notice 139(9)"
+      ],
+      "answer": "A notice under section 139(9) means your return is considered 'defective' due to an error, like using the wrong form. You are required to correct the error and resubmit the return."
+    },
+    {
+      "questions": [
+        "thanks",
+        "thank you",
+        "that was helpful",
+        "appreciate it"
+      ],
+      "answer": "You're welcome! I'm glad I could help. Is there anything else you need assistance with regarding your Income Tax Return?"
+    }
+  ]
+}
